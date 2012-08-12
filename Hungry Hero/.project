@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Hungry Hero</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.adobe.flexbuilder.project.flexbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.adobe.flexbuilder.project.actionscriptnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>[source path] greensock-as3</name>
+			<type>2</type>
+			<location>D:/Flash Tutorials/Starling tutorials/2 Welcome Screen/greensock-as3/greensock-as3</location>
+		</link>
+		<link>
+			<name>[source path] mrdoob-Hi-ReS-Stats-ad6da5d-src</name>
+			<type>2</type>
+			<location>D:/Flash Tutorials/Starling tutorials/1 Introduction &amp; Setup/Downloads/mrdoob-Hi-ReS-Stats-ad6da5d/src</location>
+		</link>
+		<link>
+			<name>[source path] starling-src</name>
+			<type>2</type>
+			<location>D:/Flash Tutorials/Starling-Framework-4ee83c1/starling/src</location>
+		</link>
+	</linkedResources>
+</projectDescription>
