@@ -8,6 +8,7 @@ package
 
 	public class Assets
 	{
+		
 		[Embed(source="../media/graphics/bgWelcome.jpg")]
 		public static const BgWelcome:Class;
 		
@@ -22,6 +23,9 @@ package
 		
 		[Embed(source="../media/graphics/mySpritesheet.xml", mimeType="application/octet-stream")]
 		public static const AtlasXmlGame:Class;
+		
+		[Embed(source="../media/fonts/embedded/dandelion_in_the_spring.ttf", fontFamily="MyFontName", embedAsCFF="false")]
+		public static var myFont:Class;
 		
 		public static function getAtlas():TextureAtlas
 		{
